@@ -6,7 +6,6 @@ function Book(title, author, isbn) {
 }
 
 // UI Constructor
-
 function UI() {}
 
 UI.prototype.addBookToList = function (book) {
